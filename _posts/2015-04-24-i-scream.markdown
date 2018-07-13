@@ -4,7 +4,7 @@ date: 2015-04-24 12:12:00 Z
 subtitle: But do you scream?
 author: Wferr
 avatar: img/authors/wferr.png
-image: img/e.jpg
+image: "/uploads/td_php.jpg"
 ---
 
 ### Iniciar em uma nova linguagem de programação nem sempre é uma tarefa fácil, não é? Pois bem, vamos com este artigo tentar minimizar os problemas que você pode passar e facilitar mesmo que um pouco o seu caminho nesta linguagem que é apaixonante.
