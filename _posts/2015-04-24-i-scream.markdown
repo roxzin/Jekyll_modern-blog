@@ -1,20 +1,58 @@
 ---
 title: I scream
-date: 2015-04-24 12:12:12 Z
+date: 2015-04-24 12:12:00 Z
 subtitle: But do you scream?
 author: Wferr
 avatar: img/authors/wferr.png
 image: img/e.jpg
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Iniciar em uma nova linguagem de programação nem sempre é uma tarefa fácil, não é? Pois bem, vamos com este artigo tentar minimizar os problemas que você pode passar e facilitar mesmo que um pouco o seu caminho nesta linguagem que é apaixonante.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+10 melhores dicas para iniciantes em PHP
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+Para quem não conhece, PHP é a linguagem de programação mais usada nos servidores de internet. Muitos projetos robustos foram feitos em PHP, a exemplo: Facebook, Wordpress,
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+Joomla, Magento entre outros.
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+Há quem diga que PHP é uma linguagem pobre, sem organização. Esta afirmação era válida antigamente. Atualmente PHP é tão organizado e quanto JAVA ou outras linguagens com orientação a objetos. Portanto, tal afirmação já não se justifica mais.
+
+Mas vamos lá as **dicas** que pretendo mostrar para você:
+
+## **1 - Aprenda lógica antes de qualquer outra coisa**
+
+Você precisa entender como que as coisas funcionam. Aprender a programar sem saber lógica é impossível. A lógica de programação vai ampliar seu entendimento sobre como, por exemplo, os IFs funcionam. Como as estruturas de laços funcionam, entre outras coisas como operações matemáticas e etc. Depois que souber isto, aí estará apto a adentrar no mundo de PHP.
+
+## **2 - PHP trabalha na internet**
+
+Diferente de programações desktop, PHP usa regras HTTP para pular de tela em tela. Regras como $_GET e $_POST. Leia sobre estas regras. Toda e qualquer mudança de tela, como este post que você lê agora, existe uma regra $_GET aplicada nele. O $_GET, é a indicação de onde e para onde vamos percorrer.
+
+## **3 - Ler sem parar**
+
+Lembro de 2003-2004, quando foi meu primeiro contato com PHP. Eu lia muitos artigos, fazia muitos dos exemplos que encontrava. Este começo, foi essencial para minha caminhada como **programador** PHP.
+
+## **4 - Faça cursos da linguagem**
+
+Eu fiz um curso na internet que foi como uma abertura de porta. Me mostrou muitas coisas que jamais imaginava. O tutor era bastante didático, e consegui aliar meu estudo por conta com o curso. Foi minha base de aprendizagem. 
+
+**5 - Procure por um estágio na área**
+
+Depois de ter feito curso e estudado por conta própria. Chegou a hora de começar a trabalhar de fato na área. Foi uma excelente decisão. Os meus tutoriais que fazia, coisas pequenas que construía não eram suficientes para meu desenvolvimento pleno. Nunca tive desafios, até por que não havia uma obrigação. Você poderia muito bem estudar por conta, fazer cursos e então pensar em construir algo para sua empresa, como um site, como um sistema. Mas eu não tinha esta obrigação. Portanto, a procura pelo estágio me trouxe esta obrigatoriedade de aprender para aplicar nas tarefas que me eram impostas. Meus primeiros salários nem sequer eram importantes, com o tanto que estava aprendendo só de conviver com outros programadores. Pelos meus estudos e pelo curso, já entrei sem ser um "calouro", sabia algumas coisas e pude me aplicar ainda mais no trabalho.
+
+## **7 - Tenha projetos pessoais**
+
+Depois de começar a estagiar, me estalou uma ideia. Que tal criar um site meu, tanto para aprender ainda mais, como para disseminar informações, foi quando criei o Oficina da Net. E o que você poderia fazer? Crie um site para expor suas ideias, expor seu conhecimento ou para sua empresa, algo do gênero. Procure você por desafios.
+
+## **8 - Servidor online para publicar seu site**
+
+Como PHP trabalha na internet, você vai precisar comprar um domínio para seu site. .com.br você compra no REGISTRO.BR. Além do domínio, **você vai precisar de uma hospedagem de sites**. Tem várias empresas que fornecem este serviço. Desde preços exorbitantes a preços camaradas. Aconselho a comprar primeiro uma hospedagem PHP que enquadre com suas necessidades. Indicamos hoje a **Hospedagem PHP da InfoLink**. Com datacenter no Brasil, seu site vai responder mais rápido.
+
+## **9 - Cuidados com segurança**
+
+Atente-se para a segurança. Estude desde cedo este assunto. Você não imagina a quantidade de tentativas de invasão, quebras de senhas que acontecem diariamente aqui no Oficina da Net. Teste todas as opções que podem acontecer em uma tela, preenchimento de campos de forma errada precisam ser tratadas para evitar brechas. Sistemas de login com testes a cada tela. Evite deixar formulários de uploads livres de acesso, teste também os tipos de arquivos que podem subir em seu servidor. Contate o pessoal da hospedagem PHP para ver o que eles fazem para melhorar a segurança também.
+
+## **10 - Nunca pare de estudar**
+
+Bati nesta tecla por muitas vezes aqui no post. Mas é a mais pura verdade. PHP vem se atualizando durante toda a sua existência. Coisas novas surgem, coisas antigas e mal feitas saem, otimizações, segurança, tudo muda. Sua capacidade de aprendizagem e acompanhamento das novidades precisa ser constante. Não tenha medo de atualizar as coisas. Tenha medo de estagnar, aí que mora o perigo.
+
+E aí, curtiu as nossas dicas? Vamos estudar a linguagem que me conquistou? Comente abaixo sobre seus problemas em aprender, sobre suas necessidades.
