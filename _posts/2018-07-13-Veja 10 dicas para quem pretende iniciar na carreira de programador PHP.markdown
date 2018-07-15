@@ -1,5 +1,5 @@
 ---
-title: Veja 10 dicas para quem pretende iniciar na carreira de programador PHP
+title: Veja 10 dicas para quem pretende iniciar na carreira de programador PHP 2
 date: 2018-07-13 12:12:00 Z
 categories:
 - dicas
@@ -40,7 +40,7 @@ Lembro de 2003-2004, quando foi meu primeiro contato com PHP. Eu lia muitos arti
 
 ## **4 - Faça cursos da linguagem**
 
-Eu fiz um curso na internet que foi como uma abertura de porta. Me mostrou muitas coisas que jamais imaginava. O tutor era bastante didático, e consegui aliar meu estudo por conta com o curso. Foi minha base de aprendizagem. 
+Eu fiz um curso na internet que foi como uma abertura de porta. Me mostrou muitas coisas que jamais imaginava. O tutor era bastante didático, e consegui aliar meu estudo por conta com o curso. Foi minha base de aprendizagem.
 
 **5 - Procure por um estágio na área**
 
